@@ -1,5 +1,4 @@
 <?php
-// Logic to generate the footer HTML dynamically
 header('Content-Type: application/json');
 
 $footerHTML = '
